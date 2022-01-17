@@ -26,17 +26,6 @@
 
 Este es un proyecto de un API con microservicios, como autenticación, y otro servicio para generar partidas con jugadores random por medio de sockes en la que podas unirte en una sale de juegos con otro usuario y comience a jugar algo con ping pong y genere un ganador random
 
-
-
-
-
-13:06
-Si haces eso nada te detiene
-13:06
-Creeme que subís de nivel
-13:07
-Obviamente si te fijas no te estoy dando ningún recurso... Porque ahí viene la parte de investigar
-
 ## Installation
 
 ```bash
